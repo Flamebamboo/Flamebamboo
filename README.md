@@ -2,7 +2,7 @@
 
 
 <p align="left">16 years old from Malaysia, I love creating full-stack mobile app, web app, and game development.</p>
-<p align="left">Developing Websites With WordPress And HTML/CSS Since Age 12</p>
+<p align="left">Currently building a mobile app called AuraHub!! </p>
 
 </p>
 <br/>
