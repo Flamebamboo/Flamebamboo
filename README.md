@@ -2,36 +2,24 @@
 
 
 <p align="left">16 years old from Malaysia, I love creating full-stack mobile app, web app, and game development.</p>
-<p align="left">Currently building a mobile app called AuraHub!! </p>
+<p align="left">Currently im working on a productivity app called Pixfocus!</p>
 
 </p>
 <br/>
-<h3 align="left">Languages I Work With:</h3>
-<br/>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-</a>
-<a href="https://godotengine.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40" />
-</a>
+<h3 align="left">Stack I Work With:</h3>
+<p>
+  <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" width="48" height="48">
+  <img src="https://developer.apple.com/swift/images/swift-og.png" width="48" height="48">
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="48" height="48">
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="48" height="48">
+  <img src="https://img-resize-cdn.joshmartin.ch/768x0%2Cc3537b9f46b5f6055fbc8b4cd03b6b2cc63fc2eefd3d8cd9f0c9f99a5933e496/https://joshmartin.ch/app/uploads/2017/10/css3.svg" width="48" height="48">
+  <img src="https://logo.clearbit.com/tailwindcss.com" width="48" height="48">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48">
+  <img src="https://avatars.githubusercontent.com/u/6412038?s=280&v=4" width="48" height="48">
+  <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" width="48" height="48">
+  <img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png" width="48" height="48">
 </p>
-<h3> 🧑‍💻 &nbsp;Top Languages</h3>
+<h3>Top Languages:</h3>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flamebamboo&layout=compact&theme=tokyonight" />
 
