@@ -2,7 +2,7 @@
 
 
 <p align="left">16 years old from Malaysia, I love creating full-stack mobile app, web app, and game development.</p>
-<p align="left">Currently im working on a productivity app called Pixfocus!</p>
+<p align="left">Currently im working on a productivity app called Pixfocus! check out https://pixfocus.me/ to know more about it! </p>
 
 </p>
 <br/>
