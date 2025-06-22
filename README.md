@@ -1,8 +1,15 @@
 <h2> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Flamebamboo.</h2>
 
 
-<p align="left">16 years old from Malaysia, I love creating full-stack mobile app, web app, and game development.</p>
+<p align="left">16 years old highschool dropout, I build and I document follow along to see my journey :) .</p>
 <p align="left">Currently im working on a productivity app called Pixfocus! check out https://pixfocus.me/ to know more about it! </p>
+<p align="left">
+
+  I make content daily here! 
+  <a href="https://instagram.com/flamebamboo.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 </p>
 <br/>
